@@ -1,0 +1,6 @@
+This is whatsapp
+Author: sridhar RM
+1. Progfile page code
+2. chat screen code
+3. last seen code 
+3. attachment (image, text, audio) code
