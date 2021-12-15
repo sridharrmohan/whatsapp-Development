@@ -10,7 +10,7 @@ After that i want to rise pull request from my branch to master if there is no c
 
 Interview Hints:
 ==============
-To Configure  git hub account with Local Machine : hai new added text for branch
+To Configure  git hub account with Local Machine : hai new added text for branch doucuments
 ------------------------------------------
 git config --global user.email "email" 
 git config --global user.name "username" .
